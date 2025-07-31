@@ -4,4 +4,4 @@
 > ❌ It's **no longer maintained** and **not part of the main repository lineup.**  
 > 🧠 But don't worry — **newer and more powerful projects are in development!**  
 >  
-> 🧭 Check out the pinned repos below to explore what I’m currently working on.
+> 🧭 Check out the new repos by <a href="https://github.com/Anmol-In-Verse">Anmol-in-Verse</a> to explore what I’m currently working on.
